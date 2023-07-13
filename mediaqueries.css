@@ -18,6 +18,7 @@
   #experience,
   .experience-details-container {
     margin-top: 2rem;
+    align-items: center;
   }
   #profile,
   .section-container {

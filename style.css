@@ -355,6 +355,15 @@ img {
   justify-content: space-around;
 }
 
+.article-container img {
+  transition: 0.5s ease;
+}
+
+.article-container img:hover {
+  box-shadow: 0 0 0 10px #000000;
+  transition: 0.5s ease;
+}
+
 article {
   display: flex;
   width: 10rem;

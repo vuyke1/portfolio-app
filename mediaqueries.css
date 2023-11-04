@@ -56,6 +56,7 @@
   article {
     font-size: 1rem;
   }
+
   footer nav {
     height: fit-content;
     margin-bottom: 2rem;
@@ -88,6 +89,23 @@
     height: 46vw;
     justify-content: center;
   }
+
+  .cards {
+    overflow: hidden;
+    padding: 5px;
+    margin: 10px;
+  }
+
+  .card {
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 20px;
+  }
+  .container-img img {
+    width: 100%;
+    margin: 10px;
+  }
+
   .section__text__p2 {
     font-size: 1.25rem;
   }

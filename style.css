@@ -178,7 +178,7 @@ section {
   height: 80vh;
 }
 
-img {
+.section__pic-container img {
   border-radius: 10%;
 }
 
@@ -325,6 +325,27 @@ img {
   height: 400px;
   width: 400px;
   margin: auto 0;
+}
+
+/* WORDPRESS SECTION */
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 40rem);
+  justify-content: center;
+}
+
+.card {
+  position: relative;
+  margin: 2rem;
+  overflow: hidden;
+}
+
+.container-img img {
+  height: 900px;
+}
+
+.details {
 }
 
 /* EXPERIENCE SECTION */

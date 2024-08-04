@@ -1,1 +1,1 @@
-My Vercel portfolio with websites i've worked on before
+My Vercel portfolio where I showcased my coding skills :)

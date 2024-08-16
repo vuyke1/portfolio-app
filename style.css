@@ -207,6 +207,11 @@ section {
   margin-bottom: 1rem;
 }
 
+.section__text__p3 {
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+}
+
 .title {
   font-size: 3rem;
   text-align: center;
@@ -325,6 +330,10 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
+}
+
+.text-container{
+  padding-bottom: 4rem;
 }
 
 /* WORDPRESS SECTION */

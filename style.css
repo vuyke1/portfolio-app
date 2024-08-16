@@ -354,7 +354,12 @@ section {
   height: 900px;
 }
 
+.wordpress { 
+  margin-top: 4rerm;
+ }
+
 .details {
+  text-rendering: geometricPrecision;
 }
 
 /* EXPERIENCE SECTION */

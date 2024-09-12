@@ -328,6 +328,7 @@ section {
 
 .section__pic-container {
   width: 350px;
+  height: 350px;
   margin: auto 0;
 }
 

@@ -330,7 +330,9 @@ section {
   display: flex;
   width: 350px;
   height: 350px;
+  box-sizing: border-box;
   margin: auto 0;
+  padding-inline: 3rem;
 }
 
 .text-container{
